@@ -1,0 +1,16 @@
+{
+    "editor.lineHeight": 40,
+    "workbench.editor.showTabs": "single",
+    "terminal.integrated.fontSize": 15,
+    "editor.fontSize": 15,
+    "editor.letterSpacing": 0.5,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    // "window.zoomLevel": 0.1,
+    // "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    // "workbench.editor.untitled.hint": "hidden",
+    // for hidden settings etc
+   "window.titleBarStyle ": "custom",
+    // "workbench.activityBar.location": "hidden",  
+}
