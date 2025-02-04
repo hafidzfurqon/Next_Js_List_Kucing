@@ -1,6 +1,6 @@
 'use client'
 
-import { Cats } from '@/app/page'
+
 import { getAllCatsById } from '@/server/cats'
 import { useQuery } from '@tanstack/react-query'
 import Link from 'next/link'
